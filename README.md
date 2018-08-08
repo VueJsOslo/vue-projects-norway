@@ -20,6 +20,8 @@ Name / website | Description
 [Finn småjobber](https://www.nu.nl/) | Småjobber at Finn.no use Vue.js to handle several of their views
 [NOR-WAY](https://www.nor-way.no) | NOR-WAY has migrated from Angular and Knockout to Vue.js for their travel planner 
 [TikkTalk](https://my.tikktalk.com/) | TikkTalk is an open digital solution for managing interpretation services and holding video or phone meetings in a browser on any device. 
+[PlusstidHome](https://plusstidhome.no) | Plusstid Home is a new initiative from Orkla focusing on Home Services
+[VIP24 Coach](https://my.vip24.coach) | VIP24 (Values Interests and Preferences, promoted by dnbung.no) includes a career counselor booking platform build on VueJS.
 
 ## Contribute
 
