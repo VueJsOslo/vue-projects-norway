@@ -13,6 +13,7 @@ A list of Norwegian companies and projects using Vue.js in production
 
 Name / website | Description
 | --- | ---- |
+[Brandy](https://getbrandy.io) | Menu bar app to keep your team in sync with brand assets.
 [Color Line](https://www.colorline.no/) | Color Line use Vue.js for their new booking solution, and will also use it on new apps they are about to build
 [Direktoratet for samfunnssikkerhet og beredskap](https://www.dsb.no/) | Uses Vue.js for some of their production apps
 [DoggieBag.no](https://doggiebag.no/) | DoggieBag uses Vue.js to create a sign up wizard
