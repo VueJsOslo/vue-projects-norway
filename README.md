@@ -23,6 +23,7 @@ Name / website | Description
 [TikkTalk](https://my.tikktalk.com/) | TikkTalk is an open digital solution for managing interpretation services and holding video or phone meetings in a browser on any device. 
 [PlusstidHome](https://plusstidhome.no) | Plusstid Home is a new initiative from Orkla focusing on Home Services
 [VIP24 Coach](https://my.vip24.coach) | VIP24 (Values Interests and Preferences, promoted by dnbung.no) includes a career counselor booking platform build on VueJS.
+[Lexus Bergen](https://www.lexus-bergen.no/) | Lexus dealer located in Bergen. Their website is a server side rendered SPA built with Vue.js.
 
 ## Contribute
 
