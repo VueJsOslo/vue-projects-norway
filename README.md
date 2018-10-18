@@ -24,7 +24,7 @@ Name / website | Description
 [PlusstidHome](https://plusstidhome.no) | Plusstid Home is a new initiative from Orkla focusing on Home Services
 [VIP24 Coach](https://my.vip24.coach) | VIP24 (Values Interests and Preferences, promoted by dnbung.no) includes a career counselor booking platform build on VueJS.
 [Lexus Bergen](https://www.lexus-bergen.no/) | Lexus dealer located in Bergen. Their website is a server side rendered SPA built with Vue.js.
-[Espen Andersen](https://easound.no/) | Espen Andersen is a music producer and sound designer based in Norway. His website is a single page application using Vue.js. His [Visualisation app](http://visualizer.easound.no/) is also build with Vue.js.
+[Espen Andersen](https://easound.no/) | Espen Andersen is a music producer and sound designer based in Norway. His website is a single page application using Vue.js. His [Visualisation app](http://visualizer.easound.no/) is also built with Vue.js.
 
 ## Contribute
 
