@@ -20,6 +20,7 @@ Name / website | Description
 [Elder](https://elder.no/) | Single page app using Vue.js
 [Espen Andersen](https://easound.no/) | Espen Andersen is a music producer and sound designer based in Norway. His website is a single page application using Vue.js. His [Visualisation app](http://visualizer.easound.no/) is also built with Vue.js.
 [Finn småjobber](https://www.finn.no/smajobber/) | Småjobber at Finn.no use Vue.js to handle several of their views
+[Kvalitetskontroll](https://www.kvalitetskontroll.no/) | Kvalitetskontroll has created a web-app with Vue.js and continues to use Vue for new projects/features.
 [Lexus Bergen](https://www.lexus-bergen.no/) | Lexus dealer located in Bergen. Their website is a server side rendered SPA built with Vue.js.
 [NOR-WAY](https://www.nor-way.no) | NOR-WAY has migrated from Angular and Knockout to Vue.js for their travel planner 
 [TikkTalk](https://my.tikktalk.com/) | TikkTalk is an open digital solution for managing interpretation services and holding video or phone meetings in a browser on any device. 
